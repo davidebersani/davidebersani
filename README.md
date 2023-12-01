@@ -34,5 +34,5 @@
 ---
 
 - 🔭 Every day I manage problems about orchestrate services and microservices, design API, design software architectures and play with technologies like Docker, Kubernetes, Python, Java, Serverless tools.
-- 🌱 I’m currently learning Javascript, Node.js, Express.js, Svelte.js
+- 🌱 I’m currently learning Javascript, Node.js and Go!
 - ⚡ Fun fact: I'm a Scout FSE and I love sport! Football, basket, padel, ping pong and I think any other kind of team sport 😄
