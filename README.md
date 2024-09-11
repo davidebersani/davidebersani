@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidebersani&hide=Jupyter%20Notebook,css&layout=compact&card_width=280)](https://github.com/davidebersani)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidebersani&hide=Jupyter%20Notebook,css&layout=compact&card_width=400)](https://github.com/davidebersani)
 </div>
 
 ---
